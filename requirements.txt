@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib
+pytest
+httpx
+psycopg2-binary
